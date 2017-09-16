@@ -1,4 +1,4 @@
-# raspi-config.github.io
+# raspi-config
 
 1)
 cmdline.txt:
